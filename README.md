@@ -61,4 +61,4 @@ O script cuida da parte de instalação, mas alguns ajustes visuais ainda são m
 
 ## Aviso⚠️
 
-Este script é feito com base no meu uso e gosto. Sinta-se à vontade pra usar como base para o seu próprio script, antes de usar ele, revise pois ele mexe em pacotes do sistema e arquivos de configuração do usuário.
+Este script é feito com base no meu uso e gosto. Sinta-se à vontade pra usar como base para o seu próprio script. Antes de usar ele, revise pois ele mexe em pacotes do sistema e arquivos de configuração do usuário.
