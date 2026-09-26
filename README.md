@@ -2,7 +2,7 @@
 
 Script de configuração pessoal do Ubuntu — automatiza a instalação e o visual do meu ambiente (GNOME + tema vermelho minimalista + kitty + oh-my-posh).
 
-## O que ele faz
+## O que ele faz?
 
 - Atualiza o sistema e habilita os repositórios `universe`/`multiverse`
 - Instala pacotes básicos: `git`, `curl`, `build-essential`, `flatpak`, `gnome-tweaks`, `kitty`, `fastfetch`, etc.
@@ -10,7 +10,7 @@ Script de configuração pessoal do Ubuntu — automatiza a instalação e o vis
 - Instala e configura o **oh-my-posh** com o tema `atomic.omp.json`
 - (Modo `--full`) Instala apps do dia a dia via Flatpak: VSCode, Discord, Spotify, Telegram e OBS Studio
 
-## Requisitos
+## Requisitos:
 
 - Ubuntu (ou derivado baseado em `apt`)
 - Usuário com acesso a `sudo`
@@ -19,7 +19,7 @@ Script de configuração pessoal do Ubuntu — automatiza a instalação e o vis
 ## Como usar
 
 ```bash
-git clone https://github.com/SEU_USUARIO/setup-ubuntu.git
+git clone https://github.com/Lucas4411/dotfiles-ubuntu.git
 cd setup-ubuntu
 chmod +x setup-ubuntu.sh
 ./setup-ubuntu.sh
@@ -59,6 +59,6 @@ O script cuida da parte de instalação, mas alguns ajustes visuais ainda são m
 └── README.md
 ```
 
-## Aviso
+## Aviso⚠️
 
-Este script é feito para o meu próprio fluxo de trabalho. Sinta-se livre pra usar como base, mas revise antes de rodar num sistema que você não quer bagunçar — ele mexe em pacotes do sistema e arquivos de configuração do usuário.
+Este script é feito com base no meu uso e gosto. Sinta-se à vontade pra usar como base para o seu próprio script, antes de usar ele, revise pois ele mexe em pacotes do sistema e arquivos de configuração do usuário.
